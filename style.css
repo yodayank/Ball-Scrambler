@@ -1,0 +1,22 @@
+body{
+	background-image: url("eye.png");
+	overflow: hidden;
+	user-select:none;
+	
+}
+
+.circle{
+	height:200px;
+	width:200px;
+	position: absolute;
+}
+
+#header{
+	text-align:center;
+	
+}
+
+#red {
+	height: 30px;
+	width: 30px;
+}
